@@ -1,4 +1,4 @@
-library 'pipe3'
+library 'pipeline'
 
 pipe.call()
 
