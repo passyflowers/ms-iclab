@@ -1,1 +1,4 @@
+library 'pipe3'
+
+pipe.call()
 
